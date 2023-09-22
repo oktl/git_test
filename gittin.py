@@ -18,4 +18,4 @@ def addition(*args):
     
     print(f'\nSum of {args} is: {total}')
     
-addition(3, 5, 80)
+addition(3.14, 5, 80)

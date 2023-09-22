@@ -4,7 +4,7 @@
 
 
 example code:
-``````
+``````python
 def addition(*args):
     total = sum(args)
     

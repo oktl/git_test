@@ -3,6 +3,7 @@
 ## Just trying to figure this out.
 
 
+example code:
 ``````
 def addition(*args):
     total = sum(args)
@@ -11,6 +12,7 @@ def addition(*args):
     
 addition(3.14, 5, 80)
 ``````
+
 
 
 

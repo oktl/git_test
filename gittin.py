@@ -12,3 +12,10 @@ print(f'\nIP address is {ip_address}')
 
 path = os.environ.get("PATH")
 print(f'\nPath is: {path}')
+
+def addition(*args):
+    total = sum(args)
+    
+    print(f'\nSum of {args} is: {total}')
+    
+addition(3, 5, 80)

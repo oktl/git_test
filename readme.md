@@ -1,4 +1,4 @@
-# GitHubbing wuth VS Code.
+# GitHubbing with VS Code.
 
 ## Just trying to figure this out.
 
